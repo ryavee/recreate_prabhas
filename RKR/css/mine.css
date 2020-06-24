@@ -1,0 +1,89 @@
+#carousel-area .carousel-item .carousel-caption h2 {
+	font-size: 42px;
+}
+#about-me .section-subtitle {
+    max-width: 500px;
+    margin: 0 auto;
+}
+#about-me .sub-item-box {
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 4px;
+    background: #fff;
+}
+#about-me .sub-item-box .text-box h4 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#about-me .sub-item-box .text-box p {
+    margin-bottom: 15px;
+    font-size: 14px;
+    /*letter-spacing: 1px;*/
+    text-indent: 30px;
+}
+
+.about-me .single-team:hover {
+    -webkit-transform: none;
+    transform: none;
+    box-shadow: 0px 10px 50px 0px rgba(84, 110, 122, 0.15);
+}
+
+.navbar-brand {
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.navbar-brand > span {
+	padding-right: 5px;
+}
+.pricing-details {
+	padding: 20px 60px;
+}
+.pricing-table {
+	padding-top: 15px;
+	margin-top: 50px;
+}
+.pricing-table .pricing-details h2 {
+    padding-top: 0;
+}
+.pricing-table .pricing-details p {
+	text-align: left;
+    padding-bottom: 15px;
+}
+.featured-box .featured-content p {
+    font-size: 16px;
+}
+.section-header {
+	/*margin-bottom: 80px;*/
+}
+.testimonial {
+    background: #fff;
+}
+.featured-content ul {
+	margin-left: 20px;
+}
+.featured-box .featured-content {
+    padding-left: 54px;
+}
+.owl-theme .owl-controls .owl-buttons div {
+    width: 48px;
+    line-height: 48px;
+    height: 48px;
+    color: #fff;
+    font-size: 24px;
+    display: inline-block;
+    background: #8924B5;
+    border-radius: 30px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+.call-action p{
+    font-size: 16px;
+}
+.featured-content p {
+    margin-top: 15px;
+}
